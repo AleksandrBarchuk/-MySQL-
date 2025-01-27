@@ -12,7 +12,7 @@
       <h2>  Here are MySQL queries that I used to explore<a href = "https://drive.google.com/file/d/1-r8CGpZhTMwh3-IYzhS2obkOkI7kpzHB/view?usp=sharing"> Hogwarts Database:</a></h2>
 <ul>
      
-   <li> <a href="https://drive.google.com/file/d/1-r8CGpZhTMwh3-IYzhS2obkOkI7kpzHB/view?usp=sharing">exploring the Hogwards database</a></li>
+   <li> <a href="https://docs.google.com/document/d/1TJb9jKXG08IkBHJX8TtseoGdkzHYlkGP5R7UKBMMWHM/edit?usp=sharing">exploring the Hogwards database</a></li>
 
 
 </ul>
